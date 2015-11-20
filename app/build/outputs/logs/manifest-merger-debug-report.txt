@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:2:1-23:12
-	xmlns:android
-		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:2:11-69
 	package
 		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml
@@ -10,6 +8,8 @@ ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/Androi
 	android:versionName
 		INJECTED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml
 		INJECTED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml
 		INJECTED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml
@@ -22,10 +22,10 @@ MERGED from [com.android.support:appcompat-v7:23.1.1] /home/qua/AndroidStudioPro
 MERGED from [com.android.support:support-v4:23.1.1] /home/qua/AndroidStudioProjects/USFStudentFinance/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /home/qua/AndroidStudioProjects/USFStudentFinance/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /home/qua/AndroidStudioProjects/USFStudentFinance/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-	android:supportsRtl
-		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
 		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
 		ADDED from /home/qua/AndroidStudioProjects/USFStudentFinance/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
