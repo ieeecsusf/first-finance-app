@@ -16,8 +16,7 @@ bin/
 gen/
 
 # Gradle files
-.gradle/
-build/
+gradle/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -34,3 +33,11 @@ proguard/
 ### Android Patch ###
 gen-external-apklibs
 
+# Gradle project configuration and scripts
+# Left commented out for now, unless it's decided that gradle shouldn't
+# be used project-wide and instead left up to each contributor
+# build.gradle
+# gradle.properties
+# gradlew
+# gradlew.bat
+# settings.gradle
